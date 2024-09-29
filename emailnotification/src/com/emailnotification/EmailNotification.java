@@ -1,7 +1,7 @@
 package com.emailnotification;
 
 import com.notificationservice.NotificationService;
-
+// Implements NotificationService
 public class EmailNotification implements NotificationService {
     @Override
     public String getName() {
